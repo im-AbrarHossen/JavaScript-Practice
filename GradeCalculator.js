@@ -10,7 +10,6 @@ Create a simple JavaScript program that takes a student's score as input and ret
     F: 0-59
 ***/
 let prompt = require('prompt-sync')();
-let alert = require('prompt-sync')();
 
 let score = prompt("Please enter your mark: ");
 
